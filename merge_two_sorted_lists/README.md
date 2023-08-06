@@ -8,7 +8,8 @@ Return the head of the merged linked list.
 
 Example 1:
 
-![Alt text](image.png)
+![image](https://github.com/quyenngthmy/java_algorithms/assets/103766482/c0befe04-0a3c-4ed7-90be-c0c7425ad28f)
+
 ```
 Input: list1 = [1,2,4], list2 = [1,3,4]
 Output: [1,1,2,3,4,4]
